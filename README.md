@@ -4,4 +4,4 @@ Modul compatibil cu .NET pentru integrarea cu SMSAdvert.ro https://www.smsadvert
 
 Documentatie: https://www.smsadvert.ro/app#/api
 
-![SendSMS](logo.png)
+![SMSAdvert](logo.svg)
